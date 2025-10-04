@@ -23,13 +23,13 @@ const Hero = () => {
           </p>
           <div className="flex gap-4 mt-6 justify-center">
             <a
-              className="inline-block rounded-sm border border-indigo-600 bg-indigo-600 px-8 py-3 text-base font-medium text-white hover:bg-transparent hover:text-indigo-600 transition"
+              className="inline-block rounded-sm border border-indigo-600 bg-indigo-600 px-6 py-3 text-base font-medium text-white hover:bg-transparent hover:text-indigo-600 transition"
               href="#kontakkami"
             >
               Belajar Sekarang !
             </a>
             <a
-              className="inline-block rounded-sm border border-indigo-600 px-8 py-3 text-base font-medium text-indigo-600 hover:bg-indigo-600 hover:text-white transition"
+              className="inline-block rounded-sm border border-indigo-600 px-6 py-3 text-base font-medium text-indigo-600 hover:bg-indigo-600 hover:text-white transition"
               to="/"
               href="#about"
             >
