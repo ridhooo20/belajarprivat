@@ -1,13 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-import Login from "./pages/Login";
-import SignUp from "./pages/Signup";
 import Home from "./pages/Home";
-import Dashboard from "./admin/Dashboard";
-import Profil from "./admin/Profil";
 import "./App.css";
-// import { auth } from "./firebase";
-// import PrivateRoute from "./components/PrivateRoute";
+
 
 function App() {
   
