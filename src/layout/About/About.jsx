@@ -6,7 +6,7 @@ const About = () => {
     <Element name="about">
       <section
         id="about"
-        className="min-h-screen flex items-center justify-center bg-white pt-20"
+        className="flex items-center justify-center bg-white lg:pt-64 lg:pb-48 pt-40 pb-24"
       >
         <div className="container px-6 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold text-blue-400 mb-10">
