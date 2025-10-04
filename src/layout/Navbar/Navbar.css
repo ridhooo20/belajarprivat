@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #0b92cc;
+  z-index: 9999;
+}
+
+.icon::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  border-bottom: 1px solid #ffffff;
+}
+
+@media (max-width: 660px) {
+  .menunav {
+    display: block;
+  }
+
+  .menunav-active {
+    width: full;
+    min-height: 100vh;
+  }
+}
+
+.side {
+  z-index: 50;
+  box-shadow: -4px 0 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav {
+  background: rgba(0, 0, 0, 0.8);
+}
