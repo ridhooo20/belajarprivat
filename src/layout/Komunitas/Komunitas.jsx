@@ -10,9 +10,12 @@ import p7 from "../../assets/portofolio/p7.jpg";
 import p8 from "../../assets/portofolio/p8.jpg";
 import p9 from "../../assets/portofolio/p9.jpg";
 import p10 from "../../assets/portofolio/p10.jpg";
+import p11 from "../../assets/portofolio/p11.jpg";
+import p12 from "../../assets/portofolio/p12.jpg";
+import p13 from "../../assets/portofolio/p13.jpg";
 
 const Komunitas = () => {
-  const images = [p1, p2, p3, p4, p5, p6, p7, p8, p9, p10];
+  const images = [p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13];
 
   return (
     <Element name="Komunitas">
